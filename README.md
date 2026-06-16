@@ -372,7 +372,7 @@ http://localhost:8501
 ## Home Dashboard
 
 ```
-docs/dashboard_home.png
+![Dashboard Home](docs/dashboard_home.png)
 ```
 
 ---
@@ -380,7 +380,7 @@ docs/dashboard_home.png
 ## Country Analytics
 
 ```
-docs/country_view.png
+![Country Analytics](docs/country_view.png)
 ```
 
 ---
@@ -388,15 +388,7 @@ docs/country_view.png
 ## Pipeline Health
 
 ```
-docs/pipeline_health.png
-```
-
----
-
-## Data Quality
-
-```
-docs/data_quality.png
+![Pipeline Health](docs/pipeline_health.png)
 ```
 
 ---
