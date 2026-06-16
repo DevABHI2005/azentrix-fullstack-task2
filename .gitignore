@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+
+.env
+
+logs/
+
+data/raw/api/*
+data/processed/*
+data/parquet/*
+
+*.db
+
+.streamlit/
+
+.DS_Store
