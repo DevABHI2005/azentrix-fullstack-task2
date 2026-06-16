@@ -371,25 +371,25 @@ http://localhost:8501
 
 ## Home Dashboard
 
-```
+
 ![Dashboard Home](docs/dashboard_home.png)
-```
+
 
 ---
 
 ## Country Analytics
 
-```
+
 ![Country Analytics](docs/country_view.png)
-```
+
 
 ---
 
 ## Pipeline Health
 
-```
+
 ![Pipeline Health](docs/pipeline_health.png)
-```
+
 
 ---
 
