@@ -41,11 +41,7 @@ to generate global analytics.
 
 st.sidebar.success("Pipeline Status: SUCCESS")
 
-st.title("🌍 World Insights Lakehouse")
 
-st.markdown(
-    "Multi-Source Data Engineering & Analytics Dashboard"
-)
 
 # --------------------
 # KPI CARDS
